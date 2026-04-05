@@ -2,7 +2,7 @@
 
 Link to the paper: 
 
-
+© 2026 Samuel Inman-Altass. All rights reserved.
 
 
 ## Initial Kaggle work:
