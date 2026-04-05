@@ -1,6 +1,6 @@
 # Decision Quality Scores for Ball-in-Air Pass Defense: Feasibility-Constrained Counterfactual Evaluation from NFL Player Tracking Data
 
-Link to the paper: 
+Link to the paper: https://drive.google.com/file/d/1gxjPXYLIEF8wjb3mcMX2I71T8nUL2lfl/view
 
 © 2026 Samuel Inman-Altass. All rights reserved.
 
